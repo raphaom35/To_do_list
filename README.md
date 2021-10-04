@@ -13,7 +13,7 @@ Application to manage your tasks
 </p>
 
 <div align="center">
-<img src="/todo.gif" width="550" />
+<img src="/todo.gif" width="300" height=400 />
 
 </div>
 
